@@ -26,6 +26,6 @@ Lancer **MiNoTor** via le bureau.
 
 **MiNoTor** est disponible en français pour l'instant.
 
-Enjoy the features of **Mo2MenV**!
+Profitez de **MiNoTor**!
 
 ![Demo Image 1](https://cdn.discordapp.com/attachments/1138107671413784679/1160522943621763102/image.png?ex=6534f837&is=65228337&hm=3a5ac06ff94a9885ac05718e75bd6ae09c9a806292e4248ccb6dffd11cd17c56&)
