@@ -54,6 +54,6 @@ Lancer **XTRE** via le bureau ou executez **XTRE.py**.
 Profitez de **XTRE**!
 
 | Menu | XDOS |	MiNoTor |	XTKN | RETX Phone Dox |	RETX IP/URL |	Cleanx |
-| -------------- | --------------- | --------------|  
+| ---- | ---- | ------- | ---- | -------------- | ----------- | ------ |  
 |![Index](https://cdn.discordapp.com/attachments/1167120903293894778/1170645157943709716/image.png?ex=6559cb43&is=65475643&hm=52c45357d112c8af9e9946a9e70943a7d97f96b9d99eeb78d22b5e764769519f&)|![f](https://cdn.discordapp.com/attachments/1167120903293894778/1170645422969192519/image.png?ex=6559cb82&is=65475682&hm=84b0aee589422a7fd179998ae48b773b3ea0e6f3938c09c63db8eaa5e7a83332&)|![f](https://cdn.discordapp.com/attachments/1167120903293894778/1170645812494209095/image.png?ex=6559cbdf&is=654756df&hm=766b47df8b3ff8d73af0926372ce793dc01801688c5be21eb8f39e6572bf64be&)|![f](https://cdn.discordapp.com/attachments/1167120903293894778/1170646014928097420/image.png?ex=6559cc0f&is=6547570f&hm=c6a808c0e67f1a8057dd5b9ab64671973a583f3f5ecfffd9f8e396b57ca8460d&)|![f](https://cdn.discordapp.com/attachments/1167120903293894778/1170646377492135986/image.png?ex=6559cc65&is=65475765&hm=169e7ff7cf30b0c094411b2bac466353499c2970dff8273a5bf5450cdc347293&)|![f](https://cdn.discordapp.com/attachments/1167120903293894778/1170647117665153117/image.png?ex=6559cd16&is=65475816&hm=03fdac07827c216e4c510d3c15ab2157158009dc865a7cefafe3d155e31766b6&)|![f](![image](https://github.com/lolesx/MiNoTor/assets/99119541/ef68b422-180f-4466-ba31-dbbaded25594)
 )
