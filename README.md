@@ -4,7 +4,7 @@ Bienvenue sur **XTRE**.
 
 ## Presentation:
 
-**XTRE** est une toolbox créé par Loles en 2023. XDOS(Un logiciel de DDoS très puissant pouvant 
+**XTRE** est une toolbox créé par Loles en 2023.
 
 
 ![Illustration Image](https://cdn.discordapp.com/attachments/1020393862017069118/1160524161001721886/827ef836-2778-4687-a275-0000a20c9292.jpg?ex=6534f959&is=65228459&hm=2282d2ac179565efc670664d1d493cffb1e8638f886e547a264df122ba5c8b28&)
