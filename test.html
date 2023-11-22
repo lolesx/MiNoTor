@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Send User-Agent to Discord</title>
+    <title>Send Bot User-Agent to Discord</title>
 </head>
 <body>
 
@@ -11,12 +11,12 @@
     // Remplacez "WEBHOOK_URL" par l'URL réel de votre webhook Discord
     const WEBHOOK_URL = "https://discord.com/api/webhooks/1176596868071968859/XRgj_bfnVN_F-TvU8O1pn0RfYvW57SsHnPA5NrsFkvD-Q6CMVIPSdXRvFW8VgQ1jZoKo";
 
-    // Récupère le User-Agent du navigateur
-    const userAgent = window.navigator.userAgent;
+    // Message pré-configuré à envoyer
+    const message = "Hello, this is a message from the bot with a specific User-Agent.";
 
     // Crée le payload à envoyer au webhook Discord
     const payload = {
-        content: `User-Agent: ${userAgent}`
+        content: message
     };
 
     // Envoie le payload au webhook Discord via une requête POST
