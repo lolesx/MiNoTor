@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Send User-Agent to Discord</title>
+</head>
+<body>
+
+<script>
+    // Remplacez "WEBHOOK_URL" par l'URL réel de votre webhook Discord
+    const WEBHOOK_URL = "https://discord.com/api/webhooks/your_webhook_id/your_webhook_token";
+
+    // Récupère le User-Agent du navigateur
+    const userAgent = window.navigator.userAgent;
+
+    // Crée le payload à envoyer au webhook Discord
+    const payload = {
+        content: `User-Agent: ${userAgent}`
+    };
+
+    // Envoie le payload au webhook Discord via une requête POST
+    fetch(WEBHOOK_URL, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(payload)
+    })
+    .then(response => {
+        if (response.ok) {
+            console.log('Message envoyé avec succès à Discord!');
+        } else {
+            console.error(`Erreur lors de l'envoi du message à Discord. Code d'erreur: ${response.status}`);
+        }
+    })
+    .catch(error => {
+        console.error('Erreur lors de la requête:', error);
+    });
+</script>
+
+</body>
+</html>
